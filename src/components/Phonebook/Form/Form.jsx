@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-import styles from '../Phonebook';
+import styles from '../Phonebook.module.css';
 import { Component } from 'react';
 
 class PhonebookForm extends Component {

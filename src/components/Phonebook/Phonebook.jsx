@@ -5,7 +5,7 @@ import PhonebookForm from './Form/Form';
 import Filter from './Filter/Filter';
 import ContactList from './Contact/Contact';
 
-import styles from './Phonebook.module.css';
+import styles from '../Phonebook/Phonebook.module.css';
 
 class Phonebook extends Component {
   state = {
